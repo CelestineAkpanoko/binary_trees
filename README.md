@@ -4,7 +4,7 @@
 
 ## Tasks Completed
 
-+ [x] 0\. make -f 0-binary_tree_node.c <br/>_**[0-binary_tree_node.c](0-binary_tree_node.c)**_ Requirements:
++ [x] 0\. 0-binary_tree_node.c: Write a function that creates a binary tree node <br/>_**[0-binary_tree_node.c](0-binary_tree_node.c)**_ Requirements:
   + Prototype: `binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);`
   + Where `parent` is a pointer to the parent node of the node to create.
   + And `value` is the value to put in the new node
